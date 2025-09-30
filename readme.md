@@ -6,6 +6,5 @@
 4. Optionally, create a folder called `new_images` and place a few test images inside for prediction after training.  
 5. Run the main script `cnn_image_classifier.py` by executing `python cnn_image_classifier.py` in your terminal or command prompt.  
 6. The script will automatically resize images, skip corrupted or unsupported files, train the CNN model, and save the trained model as `cnn_image_classifier.h5`.  
-7. After training, the model will predict the class of images in the `new_images` folder and display each image with a predicted label such as Cat or Dog.  
-8. Optionally, save screenshots of these predictions in a `screenshots` folder for reference.  
-9. You can now use the trained model to test predictions on new images and view results easily by following these steps.
+7. After training, the model will predict the class of images in the `new_images` folder and display each image with a predicted label such as Cat or Dog.    
+8. You can now use the trained model to test predictions on new images and view results easily by following these steps.
